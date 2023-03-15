@@ -57,28 +57,5 @@
 	</div>
 </div>
 
-<!-- portfolio section -->
-<div id="portfolio" stlye="padding-top:0px;">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-offset-2 col-md-8 col-sm-12">
-				<h2>Featured Content</h2>
-                <p>Feel free to explore some of my recent articles and github projects below.</p>
-			</div>
-         </div>
-         
-         <div class="row mt30">
-			<div class="col-md-4 col-sm-4 col-xs-6">
-				<img src="images/article1.jpg" style="width:500px;height:300px;" onclick="javascript:window.location='https://news.njit.edu/it-student-sam-itman-helps-modernize-optum';" />
-			</div>
-			<div class="col-md-4 col-sm-4 col-xs-6">
-				<img src="images/article2.jpg" style="width:500px;height:300px;" onclick="javascript:window.location='https://news.njit.edu/senior-success-sam-itmans-passion-leads-cybersecurity-career';" />
-			</div>
-			<div class="col-md-4 col-sm-4 col-xs-6">
-				<img src="images/githubImage.jpg" style="width:500px;height:300px;" onclick="javascript:window.location='https://github.com/samitman';" />
-			</div>
-		</div>
-	</div>
-</div>		
 
 </body>

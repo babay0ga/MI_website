@@ -8,8 +8,8 @@ http://www.templatemo.com/tm-468-onetel
 
 body
 	{
-		background: #101010;
-    color: #C0C0C0;
+		background: #e9e6d8;
+    color: #6c542b;
 		font-family: 'Montserrat', sans-serif;
     font-weight: 400;
 	}
@@ -40,7 +40,7 @@ body
 
 /* heading section */
 h1,h2,h3,h4 {
-  color: #fff;
+  color: #6c542b;
   font-weight: bold;
 }
 
