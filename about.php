@@ -24,7 +24,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-offset-2 col-md-8 col-sm-12" style="text-align: center;">
-				<h2>Meet Sam!</h2>
+				<h2>Hello there, I'm Mark!</h2>
                 <p>
 					Born with the surname, "ITman", my destiny to become a master of IT was preordained. <p>
 				</p> <br>
@@ -56,11 +56,10 @@
 			<!-- short bio section -->
 			<div class="col-md-4 col-sm-4 col-xs-9">
 				<div class="team-wrapper">
-					<img src="images/headshot.jpg" class="img-responsive" alt="team img">
-					<h3>Sam Itman</h3>
-					<h4>IT Security Professional</h4>
-					<p>SFS Cyber Corps Scholar at NJIT pursuing an MS in IT Security and Administration.
-						4.0 GPA 
+					<img src="images/MI_headshot.jpeg" class="img-responsive" alt="team img">
+					<h3>Mark Itman</h3>
+					<h4>Solutions Consultant</h4>
+					<p>Customer-facing technical specialist with 8+ years of experience.
 					</p>
 				</div>
 			</div>

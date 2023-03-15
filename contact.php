@@ -29,12 +29,11 @@
 			<div class="col-md-4 col-sm-4 address">
 				<div>
 					<h3>Email</h3>
-					<p>si237@njit.edu (School)</p>
-					<p>sitman100@gmail.com (Personal)</p>
+					<p>markitman1@gmail.com (Personal)</p>
 				</div>
 				<div>
 					<h3>LinkedIn</h3>
-					<a class="download_link" href="https://www.linkedin.com/in/samuel-itman/" target="_blank">Sam's LinkedIn Page</a>
+					<a class="download_link" href="https://www.linkedin.com/in/mark-itman-29b42245/" target="_blank">Sam's LinkedIn Page</a>
 				</div>
 			</div>
 		</div>
