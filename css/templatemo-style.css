@@ -9,7 +9,7 @@ http://www.templatemo.com/tm-468-onetel
 body
 	{
 		background: #e9e6d8;
-    color: #6c542b;
+    color: #323f57;
 		font-family: 'Montserrat', sans-serif;
     font-weight: 400;
 	}
@@ -225,17 +225,17 @@ img {
   padding-bottom: 10px;
 }
 #team .team-wrapper {
-  border: 2px solid #6c542b;
+  border: 2px solid #323f57;
   padding: 20px;
 }
 #team h4 {
-  color: #6c542b;
+  color: #323f57;
 }
 #team img {
   opacity: 1;
 }
 #team hr {
-  border-color: #6c542b;
+  border-color: #323f57;
   margin-top: 80px;
   margin-bottom: 80px;
 }
