@@ -33,7 +33,7 @@
 				</div>
 				<div>
 					<h3>LinkedIn</h3>
-					<a class="download_link" href="https://www.linkedin.com/in/mark-itman-29b42245/" target="_blank">Sam's LinkedIn Page</a>
+					<a class="download_link" href="https://www.linkedin.com/in/mark-itman-29b42245/" target="_blank">Mark's LinkedIn Page</a>
 				</div>
 			</div>
 		</div>

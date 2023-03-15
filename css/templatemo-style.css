@@ -79,7 +79,7 @@ img {
 /* navigation */
 
 .navbar-default {
-    background: #6c542b;
+    background: #a6bab9;
     border: none;
     border-left: 6px solid #e9e6d8;
     padding-right: 40px;
@@ -101,12 +101,12 @@ img {
  }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #ffa500;
+  color: #6c542b;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  	color: #ffa500;
+  	color: #6c542b;
   	background-color: transparent;
 }
 .navbar-default .navbar-toggle {

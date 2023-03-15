@@ -24,7 +24,7 @@
 	<div class="container">
 		<div class="row">
 			<a class="download_link"
-				href="./images/ItmanResume.pdf" download>
+				href="./images/MI_resume.pdf" download>
 				Click to download resume.
 			 </a>
          </div>
