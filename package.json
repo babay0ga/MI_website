@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "typewriter-effect": "^2.19.0"
+  }
+}

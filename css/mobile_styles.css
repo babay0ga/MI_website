@@ -1,0 +1,62 @@
+/* Small devices up to 768px */
+@media only screen and (max-width: 768px) {
+    #home {
+        background-size: cover;
+        background-position-x: 10%;
+        background-position-y: -30px;
+    }
+    #home h1 {
+        text-align: center;
+        font-family: "Montserrat", sans-serif;
+    }
+    #title_container {
+        margin-top: 120px;
+    }
+    .divider .divider-wrapper {
+        padding: 15px 15px 15px 15px;
+        font-size: 18px;
+        bottom: 15px;
+    }
+    .divider .divider-wrapper:hover {
+        font-size: 18px;
+        /*does not do anything, just disables a visible hover effect*/
+    }
+    #portfolio {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+    #portfolio .mt30 {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #portfolio .col-xs-6 {
+        width: 85%;
+        padding-bottom: 15px;
+    }
+    #team {
+        padding-bottom: 30px;
+    }
+    #team .team-wrapper {
+        margin-bottom: 0px;
+        padding-top: 0px;
+    }
+    #sam_bio {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #team hr {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    #resume_picture {
+        max-width: 100% !important;
+    }
+    #download_link {
+        font-size: 12pt;
+        padding-top: 60px;
+    }
+  }
