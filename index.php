@@ -23,7 +23,7 @@
 <div id="home">
 	<div class="container" id="title_container">
 		<div class="typewriter"> 
-			<h1>Welcome to Sam Itman's Website!</h1>
+			<h1>Welcome to Mark Itman's Website!</h1>
 		</div>
 	</div>
 </div>
@@ -35,32 +35,22 @@
 			<div class="col-md-4 col-sm-6">
 				<div class="divider-wrapper divider-one">
 					<i class="fa fa-shield"></i>
-					<h2>Cybersecurity</h2>
-					<p>Demonstrated experience in information security 
-						and secure software development roles within the 
-						Department of Defense, healthcare industry, and more. 
-						Skilled in ethical hacking and pen-testing 
-						tools to evaluate security.</p>
+					<h2>Advertising</h2>
+					<p>Demonstrated experience in adtech industry.</p>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<div class="divider-wrapper divider-two">
 					<i class="fa fa-laptop"></i>
-					<h2>IT</h2>
-					<p>Vast IT background with a focus in DevOps; balancing 
-						the technical know-how and business skills to deliver
-						high quality products to customers. Firm knowledge of
-						various programming languages, dev tools, and cloud platforms.</p>
+					<h2>Marketing</h2>
+					<p>hey there.</p>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-12">
 				<div class="divider-wrapper divider-three">
 					<i class="fa fa-trophy"></i>
 					<h2>Leadership</h2>
-					<p>Seasoned leadership strengths in team-based environments. 
-						Proficient in project management; planning, defining goals, 
-						delegation of responsibilities, and performance management. 
-						Adept presenter and public speaker.</p>
+					<p>keep this</p>
 				</div>
 			</div>
 		</div>
