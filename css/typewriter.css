@@ -8,7 +8,7 @@
     margin-left: auto;
     margin-right: 5px;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
-    border-right: .15em solid #d54ab6; /* The typwriter cursor */
+    border-right: .15em solid #a6bab9; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
     animation: 
       typing 3.5s steps(31, end),
@@ -24,5 +24,5 @@
   /* The typewriter cursor effect */
   @keyframes blink-caret {
     from, to { border-color: transparent }
-    50% { border-color: #d54ab6; }
+    50% { border-color: #a6bab9; }
   }
