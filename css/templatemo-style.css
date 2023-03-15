@@ -40,7 +40,7 @@ body
 
 /* heading section */
 h1,h2,h3,h4 {
-  color: #e9e6d8;
+  color: #323f57;
   font-weight: bold;
 }
 
@@ -126,7 +126,7 @@ img {
 }
 
 .active {
-	background: #ba9f6f;
+	background: #323f57;
 }
 
 /* home section */
