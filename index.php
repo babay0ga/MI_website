@@ -36,7 +36,7 @@
 				<div class="divider-wrapper divider-one">
 					<i class="fa fa-shield"></i>
 					<h2>Technical Solutions</h2>
-					<p>Creative problem-solver in adtech industry across many subverticles.</p>
+					<p>Creative problem-solver across Adtech's many subverticles.</p>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-6">
