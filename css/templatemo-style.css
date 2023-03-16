@@ -133,7 +133,7 @@ img {
 #home {
   background: url('../images/home-bg.jpg') no-repeat;
   background-size: contain;
-  background-position: inherit;
+  background-position: center;
   min-height: 500px;
   padding-top: 300px;
   padding-bottom: 750px;
