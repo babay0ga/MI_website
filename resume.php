@@ -24,9 +24,9 @@
 	<div class="container">
 		<div class="row">
 			<a class="download_link"
+			style="text-decoration: underline;"
 				href="./images/MI_resume.pdf" download>
 				Click to download resume.
-				style="text-decoration: underline;"
 			 </a>
          </div>
 	</div>
