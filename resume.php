@@ -26,6 +26,7 @@
 			<a class="download_link"
 				href="./images/MI_resume.pdf" download>
 				Click to download resume.
+				style="text-decoration: underline;"
 			 </a>
          </div>
 	</div>
