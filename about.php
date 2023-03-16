@@ -26,21 +26,23 @@
 			<div class="col-md-offset-2 col-md-8 col-sm-12" style="text-align: center;">
 				<h2>Hello there, I'm Mark!</h2>
                 <p>
-					Born with the surname, "ITman", my destiny to become a master of IT was preordained. <p>
+					Born with the surname, "ITman", my destiny to become a technical problem-solver was preordained. <p>
 				</p> <br>
 				<p>
-					As a first generation American, I am passionate about serving the country that has provided so 
-					much for my family. I am fortunate to be able to explore my interests and studies in IT security
-					while working for the federal government under the Cyber Corps Scholarship for Service.
+					As a young immigrant to this country, I have worked diligently throughout my career to find my 
+					place in the professional world. As a seasoned Solutions Consultant with over 8 years of experience 
+					across many subverticles in the adtech industry, I've fortunate to have found a stimulating passion:
+					cultivating honest relationships with my customers through trust and results. 
+
 				</p><br>
 				<p>
-					I am currently a graduate student at NJIT pursuing a master's degree in IT Adminstration & Security.
-					Most recently, I worked in a DevOps role for the Cybersecurity and Infrastructure Security Agency, 
-					a component of DHS. In the past, I was a software engineering intern with Optum - United Health 
-					Group, and before that an IT intern with KIPP; the largest charter school organization in the US. 
+					While my resume provides a comprehensive overview of my qualifications, I would like to highlight my tenacity, 
+					persistence and resourcefulness in overcoming adversity. These qualities have become a hallmark of my approach 
+					to work and are the key to my success. If you believe that these characteristics align with your team's values, 
+					I would be thrilled to discuss potential opportunities with you.
 				</p><br>
 				<p>	
-					Thanks for visiting! Read more about this project below and contact me with any questions.
+					Thanks for visiting! Read more about this project below and feel free to contact me with any questions.
 				</p>
 			</div>
          </div>
@@ -80,9 +82,12 @@
 	</div>
 	<div class="col-md-6 col-sm-6">
 		<h3>Project Info</h3>
+		<p>My objective in creating this web project was simply to showcase some of the technical aptitudes I've 
+			accumulated over the years. While I'm a far cry away from being a full-stack developer, 
+			my resourcefullness and tenacity were able to fill in the gaps to create the project you see before you.  
+		</p>
 		<p>This website is hosted on an AWS EC2 Linux instance running an Apache2 web server.</p>
 		<p>Domain name configured through AWS Route 53, and SSL certificate configured through certbot.</p>
-		<p>Visit Github link provided on home page for more information!</p>
 	</div>
 	<div class="col-md-6 col-sm-6">
 		<h3>Code Breakdown</h3>

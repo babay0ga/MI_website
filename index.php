@@ -35,22 +35,22 @@
 			<div class="col-md-4 col-sm-6">
 				<div class="divider-wrapper divider-one">
 					<i class="fa fa-shield"></i>
-					<h2>Advertising</h2>
-					<p>Demonstrated experience in adtech industry.</p>
+					<h2>Technical Solutions</h2>
+					<p>Creative problem-solver in adtech industry across many subverticles.</p>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<div class="divider-wrapper divider-two">
 					<i class="fa fa-laptop"></i>
-					<h2>Marketing</h2>
-					<p>hey there.</p>
+					<h2>Customer Centric</h2>
+					<p>8 years of experience surpassing clients expectations.</p>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-12">
 				<div class="divider-wrapper divider-three">
 					<i class="fa fa-trophy"></i>
 					<h2>Leadership</h2>
-					<p>keep this</p>
+					<p>Enabling your team to perform at their best.</p>
 				</div>
 			</div>
 		</div>
