@@ -30,7 +30,7 @@
 
 <!-- divider section -->
 <div class="divider">
-	<div class="container">
+	<div class="container" style="margin-top: -300px";>
 		<div class="row">
 			<div class="col-md-4 col-sm-6">
 				<div class="divider-wrapper divider-one">
