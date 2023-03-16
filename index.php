@@ -49,7 +49,7 @@
 			<div class="col-md-4 col-sm-12">
 				<div class="divider-wrapper divider-three">
 					<i class="fa fa-trophy"></i>
-					<h2>Leadership</h2>
+					<h2>Leadership / Mentorship</h2>
 					<p>Enabling your team to perform at their best.</p>
 				</div>
 			</div>

@@ -132,8 +132,8 @@ img {
 /* home section */
 #home {
   background: url('../images/home-bg.jpg') no-repeat;
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
+  background-position: inherit;
   min-height: 500px;
   padding-top: 300px;
   padding-bottom: 750px;
