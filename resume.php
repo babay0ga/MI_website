@@ -33,7 +33,8 @@
 </div>	
 
 <div style="text-align:center;">
-	<img id="resume_picture" src="./images/MI_resume.jpg" style="max-width: 80%;">
+	<img id="resume_picture" src="./images/MI_resume_1.jpg" style="max-width: 80%;">
+	<img id="resume_picture" src="./images/MI_resume_2.jpg" style="max-width: 80%;">
 </div>
 <br><br>
 
